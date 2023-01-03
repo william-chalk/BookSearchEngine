@@ -12,6 +12,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-chalk/DeepThoughts/issues"
+  },
+  "homepage": "https://github.com/william-chalk/DeepThoughts#readme",
   "devDependencies": {
     "concurrently": "^5.1.0"
   }
